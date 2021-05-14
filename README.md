@@ -1,1 +1,1 @@
-# nbodypy
+An n-body simulator written in python, predicated on Newton's law of Gravitation and Newton's laws of motion. Uses simple integration techniques. Uses an external input file for data input. Bodies can be started with position, velocity, and mass. Displays a 3-dimensional plot of the trajectories travelled by the bodies. The display is simple and shows all bodies as point masses.
